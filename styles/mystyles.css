@@ -2,8 +2,8 @@
    padding-left: 11em;
    font-family: Georgia, "Times New Roman",
           Times, serif;
-		  color: purple;
-    background-color: #d8da3d }
+		  color: #19A7CE;
+    background-color: #F6F1F1 }
 	 ul.navbar {
     list-style-type: none;
     padding: 0;
@@ -14,12 +14,13 @@
     width: 10em }
 	h1 {
     font-family: Helvetica, Geneva, Arial,
-          SunSans-Regular, sans-serif }
+          SunSans-Regular, sans-serif;
+		  color: #146C94;}
 		ul.navbar li {
-    background: white;
+    background: #F6F1F1;
     margin: 0.5em 0;
     padding: 0.3em;
-    border-right: 1em solid black }
+    border-right: 1em }
   ul.navbar a {
     text-decoration: none }
   a:link {
