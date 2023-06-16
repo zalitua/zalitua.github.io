@@ -13,10 +13,10 @@
     left: 1em;
     width: 10em }
 	h1 {
-    text-align: center;
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif;
-		  color: #146C94;}
+		  color: #146C94;
+      text-align: center;}
 		ul.navbar li {
     background: #F6F1F1;
     margin: 0.5em 0;
